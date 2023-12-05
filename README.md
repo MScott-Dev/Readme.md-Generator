@@ -1,30 +1,53 @@
-# test
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white " />  
+<h1 align="center">Sample</h1>
+
+<div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white " /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E " />  </div>  
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+</p>  
   <br>
-sad
+test
 
-## Description 
-![Image of the webpage](dsad)
-sad
+## Table of Contents
+
+[Description](#Description) <br>
+[Usage](#Usage) <br>
+[Dependencies](#Dependencies) <br>
+[Installing](#Installing) <br>
+[Contributing](#Contributing) <br>
+[Executing](#Executing) <br>
+[Authors](#Authors) <br>
+[License](#License) <br>
+
+
+## Description <a name="Description"></a>
+![Image of the webpage](https://placehold.co/600x400.png) <br>
+test
 
 
 
 
-## Usage
+## Usage <a name="Usage"></a>
+test
 
-sad
+## Dependencies <a name="Dependencies"></a>
+test
+3. <a href="test" alt="WeatherApp">A link to the webpage</a>
 
-## Dependencies
+## Installing <a name="Installing"></a>
+test
 
-asd
-3. <a href="sadass" alt="WeatherApp">A link to the webpage</a>
+## Contributing <a name="Contributing"></a>
+test
 
-## Installing
-dsa
+## Tests <a name="Tests"></a>
+test
 
-## Executing program
+## Executing program <a name="Executing"></a>
+test
 
-sad
+## Authors <a name="Authors"></a>
+test
 
-## Authors
-asad
+## License <a name="License"></a>
+MIT License
