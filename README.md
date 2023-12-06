@@ -1,12 +1,8 @@
-<h1 align="center">Sample</h1>
-
-<div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white " /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E " />  </div>  
-
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
-</p>  
+# Sample
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white " /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E " /> <br>
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   <br>
-test
+This is a test
 
 ## Table of Contents
 
@@ -22,32 +18,32 @@ test
 
 ## Description <a name="Description"></a>
 ![Image of the webpage](https://placehold.co/600x400.png) <br>
-test
+This is a test
 
 
 
 
 ## Usage <a name="Usage"></a>
-test
+this is a test
 
 ## Dependencies <a name="Dependencies"></a>
-test
-3. <a href="test" alt="WeatherApp">A link to the webpage</a>
+this is a test
+3. <a href="this is a test" alt="WeatherApp">A link to the webpage</a>
 
 ## Installing <a name="Installing"></a>
-test
+this is a test
 
 ## Contributing <a name="Contributing"></a>
-test
+this is a test
 
 ## Tests <a name="Tests"></a>
-test
+this is a test
 
 ## Executing program <a name="Executing"></a>
-test
+this is a test
 
 ## Authors <a name="Authors"></a>
-test
+Matthew, Calyse
 
 ## License <a name="License"></a>
 MIT License
