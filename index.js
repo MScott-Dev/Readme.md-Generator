@@ -75,13 +75,9 @@ const licenseBagde = (license) => {
   }
 };
 
-const madeBy = (people) => {
-  const person = people.split(', ');
-  
-  for (const eachName of person) {
-    return eachName;
-  };
-};
+
+
+
 
 const generateReadME = ({ title, pL, summary, imageURL, description, usage, dependencies, liveLink, installing, contributing, tests, executing, authors, license, github, email }) => 
   `# ${title}
@@ -201,7 +197,7 @@ inquirer
     {
       type: 'input',
       name: 'tests',
-      message: 'What kind of tests did you per3form on this project?',
+      message: 'What kind of tests did you perform on this project?',
     },
     {
       type: 'input',
