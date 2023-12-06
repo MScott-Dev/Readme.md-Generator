@@ -53,5 +53,5 @@ This project is licensed under the MIT License. Click on the badge at the top fo
 For any questions you may have, feel free to reach out! <br>
 Here are some ways! <br>
 <a href="https://github.com/MScott-Dev" alt="GitHub">GitHub</a> <br>
-<a href="MScott0199@gmail.com">Email</a>
+<a href="mailto:MScott0199@gmail.com">Email</a>
 
