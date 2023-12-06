@@ -28,10 +28,10 @@ Generates a full Readme with user given answers
 
 ## Dependencies <a name="Dependencies"></a>
 VS Code, NodeJS, and the index.js found in this repo <br>
-<a href="" alt="WeatherApp">A link to the webpage</a>
+
 
 ## Installing <a name="Installing"></a>
-copy the repo into your VS code, run npm i, then run node index.js and just answer the questions!
+Copy the repo into your VS code, run npm i, then run node index.js and just answer the questions!
 
 ## Contributing <a name="Contributing"></a>
 Feel free to open pull request if you think you can improve this project! If we like the idea we can merge it!
